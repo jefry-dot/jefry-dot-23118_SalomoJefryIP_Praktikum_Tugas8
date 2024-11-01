@@ -432,7 +432,7 @@ int pilih;
     }//GEN-LAST:event_angka9ActionPerformed
 
     private void btnKomaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnKomaActionPerformed
-        angka += ",";
+        angka += ".";
         tampilHasil.setText(angka);
     }//GEN-LAST:event_btnKomaActionPerformed
 
